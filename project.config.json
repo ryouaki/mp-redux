@@ -14,7 +14,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.3.0",
 	"appid": "wx22ec359afd9585c5",
-	"projectname": "mp-redux",
+	"projectname": "mp-redux-example",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
