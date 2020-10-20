@@ -1,8 +1,0 @@
-<!--logs.wxml-->
-<view class="container log-list">
-    <text class="log-item">{{userInfo.nickName}}</text>
-    <block wx:for="{{logs}}" wx:key="{{item.time}}">
-      <text class="log-item">[{{item.time}}]:{{item.value}}</text>
-    </block>
-    <button bindtap='clearLogs'>清空log日志</button>
-</view>
